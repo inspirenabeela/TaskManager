@@ -2,12 +2,7 @@
 import Taskmanager from "./app/Taskmanager";
 function App() {
   return (
-    <div>
-     
-     
-      <Taskmanager /> 
-    </div>
+    <div> <Taskmanager/> </div>
   );
 }
-
 export default App;
